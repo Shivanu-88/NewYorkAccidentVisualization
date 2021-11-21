@@ -16,7 +16,7 @@ Live link of website: https://newyorkaccidentvisualization.herokuapp.com/
     <th><img src="img/ss4.png" width=500/></th>
   </tr>
   <tr>
-    <th><img src="img/ss5.png" width=500/></th>
+    <th><img src="img/ss5.png" /></th>
   </tr>
  </table>
 
