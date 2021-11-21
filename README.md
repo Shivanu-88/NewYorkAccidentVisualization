@@ -32,5 +32,16 @@ The last part shows the top 5 dangerous areas for 3 different type people:- Cycl
   </tr>
  </table>
 
-Made by Shivanu Sharma
+
+# Flow Chart
+
+<table style="width:100%">
+  <tr>
+    <th><img src="img/ss3.png" width=500/></th>
+  </tr>
+ </table>
+ 
+ 
+Made by Shivanu Sharma(101803045)
+
 
