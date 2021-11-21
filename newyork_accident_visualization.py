@@ -12,7 +12,7 @@ st.title("Motor Vehicle Accident Visualization in New York City")
 st.markdown("Data visualization using streamlit")
 st.write("""
 #
-** Made by Sayantan Pradhan 101803693 COE14**
+** Made by Shivanu Sharma 101803045 COE3**
 """)
 st.write('---')
 
